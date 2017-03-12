@@ -1,2 +1,2 @@
 # riasc/rna-workstation
-Docker image that includes all major tools for RNA-seq analysis.
+Docker image that includes all major tools for RNA-seq analysis. It has been uploaded
